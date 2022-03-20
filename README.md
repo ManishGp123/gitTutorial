@@ -1,2 +1,2 @@
 # gitTutorial
-# Totorail for git User
+# Tutorial for git User
